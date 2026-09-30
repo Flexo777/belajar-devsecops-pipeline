@@ -1,4 +1,3 @@
-pengemasan aplikasi ke dalam container:
 FROM python:3.10-slim
 
 WORKDIR /app
